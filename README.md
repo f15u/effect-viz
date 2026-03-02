@@ -8,7 +8,7 @@ It allows you to **visualize** the execution of Effect code in the browser, and 
 
 This project is a learning project for me to understand the Effect runtime. My learning journey is documented in the [`workshop/`](./workshop/) folder, with each phase covering different Effect concepts (lazy evaluation, fibers, scheduling, errors, scopes). Check out the [AGENTS.md](./AGENTS.md) file for the AI approach.
 
-https://github.com/user-attachments/assets/54e91852-a9da-4e03-984c-af441d2e8a90
+https://github.com/user-attachments/assets/c6073f78-d18e-4573-805b-65b1c2a71df8
 
 ## Resources
 
